@@ -1,4 +1,4 @@
 # Recursive-Sudoku-Solver
-Algorithm that solves any Sudoku puzzle via recursive backtracking
+Recursive backtracking algorithm capable of solving any sudoku puzzle.
 
 ~1000 lines of absolute gibberish...but I made it work.
